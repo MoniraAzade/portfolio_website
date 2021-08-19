@@ -39,6 +39,7 @@ p{
 
 
 section{
+    display: inline-block;
     height: 500px;
     padding-bottom: 20px;
 }
@@ -89,7 +90,9 @@ section{
     border-image-slice: 1;
 }
 
-
+footer{
+    margin-top: 20px;
+}
 footer p{
     text-align: center;
     font-size: 12px;
@@ -97,14 +100,14 @@ footer p{
 
 
 #topside-pic{
-    width: 70%;
+   width:400px;
     margin-top: 80px;
     
 }
 
 
 #bottomside-pic{
-    width: 70%;
+    width:400px;
     margin-top: 40px;
 }
 
